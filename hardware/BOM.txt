@@ -1,0 +1,17 @@
+
+Manufacturer            Description                 Digikey Part #
+Part #
+
+---------------------------------------------------------------------
+
+Pomona                  Gold tip probes             501-1457-ND
+6342
+
+Mueller Electric Co     Black Banana Jack           314-1266-ND
+BU-31610-0
+
+Mueller Electric Co     Red Banana Jack             314-1267-ND
+BU-31610-2
+
+Adafruit                2x2032 Coin Batt. Holder    1528-1456-ND
+783
