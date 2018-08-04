@@ -60,7 +60,7 @@ Start with any obvious straight sets of 4 pins or pads on the PCB. Look for any 
 
 To ensure accuracy:
 
-  - Add 100K-Ohm pull-up resistors on pin 4 and pin 0 of the uart-finder, especially when using long probe wires. This will reduce false-positives from back-propagation and EM cross-talk between the two probe wires.
+  - Add 100K-Ohm pull-up resistors on pin 4 and pin 0 of the uart-finder, especially when using long probe wires. This will reduce false-positives from signal reflection and EM cross-talk between the two probe wires.
 
   - Use probes with highly conductive, sharp tips. See BOM for recommended probes.
 
