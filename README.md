@@ -34,7 +34,7 @@ With a Trinket M0 and CircuitPython already installed on it, copy the contents o
 
 ## Instructions
 
-[Demo GIF [25 MB]](https://blog.inach.is/uart-finder/images/uart-finder-demo.gif)
+[Demo video [2 MB]](https://blog.inach.is/uart-finder/images/uart-finder-demo.mp4)
 
 Uart-finder is an active measurement tool since it drives 3.3V signals on each probe. Both probes need to be used since both TX and RX are required to send and receive a byte. After each probe sends the test byte, the process is repeated for all common baudrates defined in 'main.py'.
 
