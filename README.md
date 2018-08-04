@@ -28,7 +28,7 @@ The concept is based on the "UART discovery assistant module" in [*Opening Pando
 
 ## Install
 
-With a Trinket M0 and CircuitPython already installed on it, copy the contents of 'firmware' in its root directory.
+With a Trinket M0 and CircuitPython already installed on it, copy the contents of 'firmware' to the Trinket's root directory
 
 ## Instructions
 
