@@ -1,3 +1,5 @@
+![](https://blog.inach.is/uart-finder/images/uart-finder-labelled.jpg)
+
 ## Description
 
 Uart-finder is a portable, DIY-friendly tool for quickly detecting echo-enabled UART on otherwise unknown pads and traces on a PCB. It actively sends data on both probes in order to detect an echo from the target device. An echo-enabled console behind UART strongly suggests an interactive shell or a script/program that might be faulted into an interactive shell.
@@ -31,6 +33,8 @@ The concept is based on the "UART discovery assistant module" in [*Opening Pando
 With a Trinket M0 and CircuitPython already installed on it, copy the contents of 'firmware' to the Trinket's root directory
 
 ## Instructions
+
+[Demo GIF [25 MB]](https://blog.inach.is/uart-finder/images/uart-finder-demo.gif)
 
 Uart-finder is an active measurement tool since it drives 3.3V signals on each probe. Both probes need to be used since both TX and RX are required to send and receive a byte. After each probe sends the test byte, the process is repeated for all common baudrates defined in 'main.py'.
 
